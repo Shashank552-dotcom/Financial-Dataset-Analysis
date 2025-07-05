@@ -22,13 +22,12 @@ This project focuses on analyzing the financial data of Western countries using 
 - **Power BI** – Interactive dashboard for advanced data visualization
   
 ---
----
+## 📷 Dashboard Preview
 
-## 📊 Dashboard Preview
-
-Below is a snapshot of the final dashboard built for the Financial Dataset Analysis project:
+Here’s a snapshot of the interactive Power BI dashboard:
 
 ![Financial Dashboard Preview](dashboard_preview.png)
+
 
 ---
 
@@ -89,9 +88,4 @@ For any questions or collaboration opportunities:
 **Email**: [shashankax0@gmail.com]
 
 ---
-## 📷 Dashboard Preview
-
-Here’s a snapshot of the interactive Power BI dashboard:
-
-![Dashboard Preview](dashboard_preview.png)
 
