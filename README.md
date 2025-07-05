@@ -24,4 +24,45 @@ This project focuses on analyzing the financial data of Western countries using 
 ---
 
 ## 📂 Project Structure
+/Excel_Analysis → Cleaned and explored data in Excel
+/SQL_Scripts → SQL queries for deep data extraction
+/PowerBI_Dashboard → Final interactive Power BI report
+/Presentation_Slides → Project summary and insights
+
+yaml
+Copy
+Edit
+
+---
+
+## 📈 Key Insights
+
+- Highlighted top economies with consistent GDP growth and strong trade balance
+- Detected inflation and unemployment trends across different countries
+- Identified economic volatility and potential risk zones
+- Enabled year-over-year comparison for policy and investment planning
+
+---
+
+## 📌 Outcome
+
+The project demonstrates the effective use of **business analytics tools** to transform raw economic data into valuable insights, helping stakeholders make informed strategic decisions.
+
+---
+
+## 📷 Dashboard Preview
+
+*(Insert Power BI dashboard image or GIF here, if available)*
+
+---
+
+## 📎 Contact
+
+For any questions or collaboration opportunities:
+
+**Name**: Shashank Bajpai  
+**LinkedIn**: [www.linkedin.com/in/shashank-bajpai-53871222a]  
+**Email**: [shashankax0@gmail.com]
+
+---
 
