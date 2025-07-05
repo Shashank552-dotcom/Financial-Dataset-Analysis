@@ -19,7 +19,33 @@ This project focuses on analyzing the financial data of Western countries using 
 
 - **Excel** – Data cleaning, transformation, and preliminary analysis  
 - **SQL** – Data extraction and query-based exploration  
-- **Power BI** – Interactive dashboard for advanced data visualization  
+- **Power BI** – Interactive dashboard for advanced data visualization
+  
+---
+
+## 📊 Dashboard Preview
+
+Below is a snapshot of the final dashboard built for the Financial Dataset Analysis project:
+
+![Financial Dashboard Preview](dashboard_preview.png)
+---
+
+## 📊 Supporting Excel Visuals
+
+### 📍 Total Profit & Total Sales Pivot Table
+![Profit & Sales Pivot](Totalprofit&totalsales_pivot.png)
+
+### 📍 Key Pivot Table View
+![Pivot Table](pivot_table.png)
+
+---
+
+## 📂 Project Presentation
+
+📽️ Download the presentation summarizing key insights from the financial dataset analysis:
+
+➡️ [Download Financial Dataset Analysis PPTX](Financial_Dataset_Analysis_presentation.pptx)
+
 
 ---
 
