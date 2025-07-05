@@ -69,5 +69,5 @@ For any questions or collaboration opportunities:
 
 Here’s a snapshot of the interactive Power BI dashboard:
 
-![Dashboard Preview](dashboard_preview.png.png)
+![Dashboard Preview](dashboard_preview.png)
 
