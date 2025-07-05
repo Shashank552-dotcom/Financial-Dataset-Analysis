@@ -22,12 +22,14 @@ This project focuses on analyzing the financial data of Western countries using 
 - **Power BI** – Interactive dashboard for advanced data visualization
   
 ---
+---
 
 ## 📊 Dashboard Preview
 
 Below is a snapshot of the final dashboard built for the Financial Dataset Analysis project:
 
 ![Financial Dashboard Preview](dashboard_preview.png)
+
 ---
 
 ## 📊 Supporting Excel Visuals
@@ -45,6 +47,7 @@ Below is a snapshot of the final dashboard built for the Financial Dataset Analy
 📽️ Download the presentation summarizing key insights from the financial dataset analysis:
 
 ➡️ [Download Financial Dataset Analysis PPTX](Financial_Dataset_Analysis_presentation.pptx)
+
 
 
 ---
@@ -74,11 +77,6 @@ Edit
 
 The project demonstrates the effective use of **business analytics tools** to transform raw economic data into valuable insights, helping stakeholders make informed strategic decisions.
 
----
-
-## 📷 Dashboard Preview
-
-*(Insert Power BI dashboard image or GIF here, if available)*
 
 ---
 
